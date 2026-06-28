@@ -56,7 +56,13 @@ Below is the definitive list of enterprise-level business questions and objectiv
 
 ---
 
-## 🚀 3. Extra Advanced Insights Solved
-1. **Slippage & Discount Trailing Analysis:** Identified which specific sales agents rely too heavily on margin erosion (aggressive discounting) to force contract closures.
-2. **Quarter-over-Quarter (QoQ) Growth Velocity:** Utilized the advanced database window function `LAG()` to track sequential revenue acceleration rates over consecutive corporate quarters.
-3. **Strategic Team Performance Tiering:** Built a conditional segmentation model using `CASE WHEN` processing logic to dynamically categorize the entire sales agent landscape into Elite, Mid-Tier, and Underperforming distribution groups.
+ 🚀 3. Extra Advanced Insights Solved
+1. Slippage & Discount Trailing Analysis: Identified which specific sales agents rely too heavily on margin erosion (aggressive discounting) to force contract closures.
+2. Quarter-over-Quarter (QoQ) Growth Velocity:Utilized the advanced database window function `LAG()` to track sequential revenue acceleration rates over consecutive corporate quarters.
+3. Strategic Team Performance Tiering: Built a conditional segmentation model using `CASE WHEN` processing logic to dynamically categorize the entire sales agent landscape into Elite, Mid-Tier, and Underperforming distribution groups.
+
+ Example Output: 
+ Acme Corporation Financial Roll-up
+ Parent Company | Total Combined Revenue |
+ Acme Corporation | $2,450,800.00 |
+ Parent Group B | $1,120,450.50 |
