@@ -13,9 +13,9 @@ This repository systematically walks through data verification benchmarks to opt
 ---
 
 --- Data Source & Reference Link
-The dataset utilized in this analysis is sourced directly from the official **Maven Analytics** platform. You can access the project details, data dictionary parameters, and download files here:
+The dataset utilized in this analysis is sourced directly from the official --Maven Analytics--- platform. You can access the project details, data dictionary parameters, and download files here:
 
- --[Official Maven Analytics Dataset & Project Brief](https://app.mavenanalytics.io/guided-projects/3a35f0ec-fc19-4e69-8377-b08534925844#dataset)**
+ --[Official Maven Analytics Dataset & Project Brief](https://app.mavenanalytics.io/guided-projects/3a35f0ec-fc19-4e69-8377-b08534925844#dataset)
 
 ---
 
