@@ -1,6 +1,6 @@
 📋 Problem Statement & Analytical Business Questions
 
-Project Name:** B2B Sales Pipeline Analytics & Revenue Optimization  
+Project Name: B2B Sales Pipeline Analytics & Revenue Optimization  
 
 ---
 
